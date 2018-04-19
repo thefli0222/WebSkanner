@@ -1,0 +1,52 @@
+element.style {
+}
+
+.nonbootcontainer {
+    padding: 10rem 1.5rem;
+    text-align: center;
+}
+
+.nonbootcontainer2 {
+    padding: 4rem 1.5rem;
+}
+
+.cardcss{
+    padding: 1rem 1rem;
+}
+
+.buystocks {
+    padding: 4rem 1.5rem;
+    text-align: center;
+    background-color: cornsilk;
+    font-size: x-large;
+    font-style: inherit
+}
+
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+.text-center {
+    text-align: center!important;
+}

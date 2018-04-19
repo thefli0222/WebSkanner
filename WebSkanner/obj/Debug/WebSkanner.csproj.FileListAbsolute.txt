@@ -1,0 +1,12 @@
+C:\Users\fredr\OneDrive\Dokument\Visual Studio 2017\Projects\WebSkanner\WebSkanner\bin\Debug\WebSkanner.exe.config
+C:\Users\fredr\OneDrive\Dokument\Visual Studio 2017\Projects\WebSkanner\WebSkanner\bin\Debug\WebSkanner.exe
+C:\Users\fredr\OneDrive\Dokument\Visual Studio 2017\Projects\WebSkanner\WebSkanner\bin\Debug\WebSkanner.pdb
+C:\Users\fredr\OneDrive\Dokument\Visual Studio 2017\Projects\WebSkanner\WebSkanner\bin\Debug\HtmlAgilityPack.dll
+C:\Users\fredr\OneDrive\Dokument\Visual Studio 2017\Projects\WebSkanner\WebSkanner\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\fredr\OneDrive\Dokument\Visual Studio 2017\Projects\WebSkanner\WebSkanner\bin\Debug\HtmlAgilityPack.xml
+C:\Users\fredr\OneDrive\Dokument\Visual Studio 2017\Projects\WebSkanner\WebSkanner\obj\Debug\WebSkanner.csprojResolveAssemblyReference.cache
+C:\Users\fredr\OneDrive\Dokument\Visual Studio 2017\Projects\WebSkanner\WebSkanner\obj\Debug\WebSkanner.csproj.CoreCompileInputs.cache
+C:\Users\fredr\OneDrive\Dokument\Visual Studio 2017\Projects\WebSkanner\WebSkanner\obj\Debug\WebSkanner.exe
+C:\Users\fredr\OneDrive\Dokument\Visual Studio 2017\Projects\WebSkanner\WebSkanner\obj\Debug\WebSkanner.pdb
+C:\Users\fredr\OneDrive\Dokument\Visual Studio 2017\Projects\WebSkanner\WebSkanner\bin\Debug\WebDriver.dll
+C:\Users\fredr\OneDrive\Dokument\Visual Studio 2017\Projects\WebSkanner\WebSkanner\bin\Debug\WebDriver.xml
